@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 5829,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/starts-virutal-machines-in-a-subscription-using-python-from-azure-automation/master/start_azure_vm.py",
+    "DownloadCount": 1932,
+    "Id": "Starts-virutal-machines-in-74c603d3",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 64,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-7-24T00:00:00",
+    "RunbookKind": 9,
+    "RunbookKindString": "Python",
+    "Summary": "Starts Azure resource manager virtual machines in a subscription. An Azure Automation RunAs account is required for this runbook.This Azure Automation runbook runs on Azure to start Azure vms in a subscription.",
+    "Title": "Starts virutal machines in a subscription using Python from Azure Automation",
+    "UpdatedDate": "2018-7-24T00:00:00",
+    "Url": "https://github.com/azureautomation/starts-virutal-machines-in-a-subscription-using-python-from-azure-automation",
+    "UserTags": "Azure Automation, Azure Virtual Machines"
+}
